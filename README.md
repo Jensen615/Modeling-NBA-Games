@@ -11,3 +11,4 @@ iii. After compiling the shooting trends for each shot category, inter-arrival t
 
 # Help:
 Contact me for additional help and guidance or to view the poster presented at Cornell University.
+All content © Copyright 2020 Cornell University. All Rights Reserved.
