@@ -8,3 +8,6 @@ i. Imported 2018-2019 NBA play-by-play data and used Python data science package
 ii. Once data has been gathered, we devised a series of short algorithms to compile team shooting preferences and calculate the inter-arrival times between each shot taken and made for each shooting category (free throws, two-pointers, three-pointers, etc.). Before proceeding to pass these findings into our Hawkes model, we added visual representations of this data to evaluate its accuracy. (Refer to Figures 1 and 2 from research poster)
 
 iii. After compiling the shooting trends for each shot category, inter-arrival times, and all necessary numerical calculations and percentages relevant for replicating an NBA game, we proceeded to use these findings as parameters for our bivariate Hawkes model. In theory, an ideal model would accurately reflect the progression of any NBA game from quarters 1-4 (and any overtime sessions thereafter) so we refined the model’s parameters until it nearly reflected this desirable outcome. Without using a bivariate Hawkes process, it would have been severely difficult to accurately depict the probable scoring of a team, for this scoring is directly affected by the events that occur in the previous team’s possession.
+
+# Help:
+Contact me for additional help and guidance or to view the poster presented at Cornell University.
